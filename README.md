@@ -92,11 +92,7 @@ itzfizz-landing-page/
    git push -u origin main
    ```
 
-2. **Deploy to Vercel**
-   - Go to [vercel.com](https://vercel.com)
-   - Click "New Project"
-   - Import your GitHub repository
-   - Vercel will automatically detect Next.js and deploy
+
 
 ### Deploy to GitHub Pages
 
@@ -188,17 +184,7 @@ npm run lint
 - iOS Safari 14+
 - Android Chrome 90+
 
-## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
 
 ---
 
